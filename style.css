@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(131, 214, 163);
+}
+img{
+    height: 500px;
+    object-fit: contain;
+    background-color: rgb(163, 241, 170);
+    
+}
+.a1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+p,h5{
+    color:white;
+}
+.a2{
+    margin-top: 20px;
+    display: flex;
+    justify-content:space-around;
+    align-content: center;
+    
+}
+.a3{
+    display: flex;
+    width: 400px;
+    justify-content: center;
+    align-content: center;
+}
+.a5{
+    color: white;
+}
